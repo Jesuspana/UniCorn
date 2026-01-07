@@ -19,7 +19,7 @@
 </p>
 
 # UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
-> Ruiyan Han*, [Zhen Fang*](https://costaliya.github.io/), Xinyu Sun*, Yuchen Ma, Ziheng Wang, Yu Zeng, [Zehui Chen](https://lovesnowbest.site/), [Lin Chen](https://lin-chen.site/), Wenxuan Huang, Wei-Jie Xu, Yi Cao, and Feng Zhao
+> Ruiyan Han*, [Zhen Fang*](https://costaliya.github.io/), Xinyu Sun*, Yuchen Ma, Ziheng Wang, [Yu Zeng](https://scholar.google.com/citations?user=XJmAr8EAAAAJ&hl=en&oi=sra), [Zehui Chen](https://lovesnowbest.site/), [Lin Chen](https://lin-chen.site/), Wenxuan Huang, Wei-Jie Xu, Yi Cao, and Feng Zhao
 >
 > contact: fazii@mail.ustc.edu.cn
 > 
@@ -42,7 +42,7 @@ As we scale up BAGEL’s pretraining with more multimodal tokens, we observe con
 
 We sincerely thank all contributors from the open community for their valuable support.
 
-- **Jan. 7, 2026:** We released the official [report](https://arxiv.org/abs/2510.12784) for UniCorn. 
+- **Jan. 7, 2026:** We released the official [report](https://arxiv.org/pdf/2601.03193) for UniCorn. 
 <!-- And please upvote for our [huggingface daily paper](https://huggingface.co/papers/2510.12784) as well as try the [demo](https://huggingface.co/spaces/Wayne-King/SRUM_Bagel_MoT-7B) -->
 
 
