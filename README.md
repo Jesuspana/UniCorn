@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/unicorn_LOGO.png" alt="UniCorn" width="350"/>
+  <img src="assets/UniCorn_LOGO.png" alt="UniCorn" width="350"/>
 </p>
 
 <p align="center">
