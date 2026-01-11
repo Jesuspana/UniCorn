@@ -103,14 +103,11 @@ We are grateful to the broader research community for their open-source spirit a
 ## ✍️ Citation
 
 ```bibtex
-@misc{han2026unicornselfimprovingunifiedmultimodal,
+@article{han2026unicorn,
       title={UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision}, 
-      author={Ruiyan Han and Zhen Fang and XinYu Sun and Yuchen Ma and Ziheng Wang and Yu Zeng and Zehui Chen and Lin Chen and Wenxuan Huang and Wei-Jie Xu and Yi Cao and Feng Zhao},
+      author={Han, Ruiyan and Fang, Zhen and Sun, XinYu and Ma, Yuchen and Wang, Ziheng and Zeng, Yu and Chen, Zehui and Chen, Lin and Huang, Wenxuan and Xu, Wei-Jie and others},
+      journal={arXiv preprint arXiv:2601.03193},
       year={2026},
-      eprint={2601.03193},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.03193}, 
 }
 ```
 
