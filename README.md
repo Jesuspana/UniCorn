@@ -43,7 +43,7 @@ This list tracks the progress of our open-source development and model optimizat
 
 - [ ] Release the code.
 
-- [ ] Release the ckpt.
+- [x] Release the ckpt.
 
 We appreciate the support from our contributors and the open-source community.
 
